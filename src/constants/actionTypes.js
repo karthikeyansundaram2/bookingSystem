@@ -1,0 +1,9 @@
+export const LOGIN = "LOGIN";
+export const CREATE_ACCOUNT = "CREATE_ACCOUNT";
+export const GET_USERS = "GET_USERS";
+export const PAYMENT = "PAYMENT";
+export const FORGOT = "FORGOT";
+export const RIDES = "RIDES"
+export const FARE = "FARE"
+export const GET_DRIVERS = "GET_DRIVERS"
+export const TRIP_DETAILS = "TRIP_DETAILS"
