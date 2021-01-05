@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.6",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "haversine": "^1.1.0",
     "hoek": "^5.0.3",
     "jetifier": "^1.6.5",
