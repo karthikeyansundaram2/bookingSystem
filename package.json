@@ -14,7 +14,7 @@
     "jetifier": "^1.6.5",
     "lodash": "^4.17.15",
     "prop-types": "^15.6.1",
-    "pubnub": "^4.20.3",
+    "pubnub": "^4.37.0",
     "pubnub-react": "^1.2.0",
     "react": "16.8.3",
     "react-native": "0.59.10",
